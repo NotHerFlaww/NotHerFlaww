@@ -1,16 +1,23 @@
-### Hi there 👋
+**Apprentice** - Python , Js
 
-<!--
-**NotHerFlaww/NotHerFlaww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://discord.com/users/1031764235526602752">
+<img src="https://discord.c99.nl/widget/theme-2/1031764235526602752.png" alt="Discord"/>
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## BOTS
+• **GripX - A Quality Music Bot**
+
+
+## Projects
+
+• [GripX Bot](https://dsc.gg/gripx)
+• [Discord Server](https://discord.gg/pyar)
+
+
+<a href="https://discord.com/users/1031764235526602752" target="_blank" >
+    <img align ="left" alt="Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  </a>
+
+![]()
