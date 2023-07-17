@@ -1,10 +1,10 @@
-**Apprentice** - Python , Js
-
 <a href="https://discord.com/users/1031764235526602752">
 <img src="https://discord.c99.nl/widget/theme-2/1031764235526602752.png" alt="Discord"/>
 </a>
 
-
+## Apprentice
+• Python 
+• Node.Js
 
 ## BOTS
 • **GripX - A Quality Music Bot**
